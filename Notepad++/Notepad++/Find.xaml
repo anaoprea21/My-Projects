@@ -1,0 +1,15 @@
+﻿<Window x:Class="Notepad__.Find"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notepad__"
+        mc:Ignorable="d"
+        Title="Find" Height="200" Width="400">
+    <Grid>
+        <TextBlock Text="Find:" Margin="70,10,10,10"/>
+        <TextBox x:Name="textbox" AcceptsReturn="False" Margin="100,10,100,130"/>
+        <Button Content="Submit" Margin="100,60,100,70" Click="Button_Submit"/>
+        
+    </Grid>
+</Window>

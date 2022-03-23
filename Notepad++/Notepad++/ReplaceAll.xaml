@@ -1,0 +1,18 @@
+﻿<Window x:Class="Notepad__.ReplaceAll"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notepad__"
+        mc:Ignorable="d"
+        Title="Replace all appearances" Height="200" Width="400">
+    <Grid>
+        <TextBlock Text="Search for:" Margin="15,10,300,140"/>
+        <TextBox x:Name="textboxReplace" AcceptsReturn="False" Margin="100,10,100,130"/>
+
+        <TextBlock Text="Replace with:" Margin="15,50,300,90"/>
+        <TextBox x:Name="textboxText" AcceptsReturn="False" Margin="100,50,100,90"/>
+
+        <Button Content="Submit" Margin="100,100,100,30" Click="Button_Submit"/>
+    </Grid>
+</Window>
