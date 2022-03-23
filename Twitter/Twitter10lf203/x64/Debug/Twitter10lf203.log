@@ -1,0 +1,1843 @@
+﻿  ButtonSFML.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ButtonSFML.cpp(20,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ButtonSFML.cpp(135,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FeedScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(14,137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(14,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(14,203): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(14,176): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(27,118): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(27,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(27,172): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(27,147): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(28,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(28,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(28,167): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(28,142): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(29,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(29,145): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(29,120): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(30,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(30,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(30,169): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(30,144): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(53,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\FeedScene.cpp(53,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  ImportantData.cpp
+  LoginManager.cpp
+  Main.cpp
+  MainMenuScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(12,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(12,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(12,168): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(12,143): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(13,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(13,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(13,169): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(13,144): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(15,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(15,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(15,172): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(15,147): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(16,125): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(16,100): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(16,176): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(16,151): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(17,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(17,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(17,166): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(17,141): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(19,148): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(19,100): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(19,202): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(19,176): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(20,149): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(20,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(20,203): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(20,177): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(25,167): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(25,142): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(25,232): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(25,207): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(26,161): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(26,136): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(26,226): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(26,201): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(47,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\MainMenuScene.cpp(47,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Menu.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(6,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(6,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(6,156): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(6,131): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(9,105): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(9,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(9,158): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(9,133): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(11,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(11,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(11,168): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(11,143): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(33,23): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(32,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(33,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(33,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(35,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Menu.cpp(35,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  OtherAccountScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(14,137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(14,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(14,203): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(14,176): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(27,118): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(27,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(27,172): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(27,147): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(28,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(28,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(28,167): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(28,142): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(29,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(29,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(29,169): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(29,144): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(30,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(30,145): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(30,120): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(31,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(31,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(31,169): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(31,144): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(60,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(60,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(75,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(75,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(77,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\OtherAccountScene.cpp(77,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Post.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(9,241): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(9,216): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(13,268): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(13,242): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(15,311): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(15,285): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(16,324): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(16,298): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(17,319): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(17,293): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  ProfileScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(14,137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(14,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(14,203): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(14,176): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(26,118): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(26,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(26,172): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(26,147): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(27,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(27,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(27,167): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(27,142): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(30,92): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(30,146): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(30,121): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(31,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(31,89): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(31,170): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(31,145): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(35,92): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(35,146): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(35,121): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(65,121): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(65,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(65,175): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(65,150): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(67,151): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(67,124): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(67,216): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(67,190): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(74,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(74,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(76,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ProfileScene.cpp(76,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  RegisterLoginScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(44,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(44,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(72,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(72,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(72,166): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(72,141): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(77,120): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(77,93): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(77,173): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(77,148): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(82,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(82,88): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(82,168): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(82,143): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(87,117): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(87,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(87,170): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(87,145): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(92,154): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(92,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(92,218): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(92,193): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(93,154): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(93,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(93,218): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(93,193): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(99,148): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(99,123): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(99,212): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(99,187): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(100,154): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(100,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(100,218): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(100,193): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(101,154): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(101,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(101,218): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(101,193): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(102,170): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(102,145): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(102,234): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(102,209): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(108,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(108,151): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(108,240): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(108,215): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(109,178): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(109,153): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(109,242): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(109,217): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(110,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(110,151): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(110,240): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\RegisterLoginScene.cpp(110,215): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SearchScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(25,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(25,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(46,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(46,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(80,118): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(80,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(80,172): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(80,147): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(81,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(81,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(81,167): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(81,142): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(82,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(82,145): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(82,120): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(85,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(85,89): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(85,170): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(85,145): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(95,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(95,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(99,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(99,46): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(102,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(102,155): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(102,130): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(113,137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(113,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(113,203): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\SearchScene.cpp(113,176): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ServiceClient.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ServiceClient.cpp(62,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ServiceClient.cpp(66,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CommentScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(13,137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(13,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(13,203): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(13,176): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(29,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(29,93): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(29,172): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(29,147): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(31,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(31,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(31,168): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(31,143): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(32,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(32,89): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(32,170): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(32,145): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(36,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(36,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(36,168): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(36,143): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(37,121): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(37,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(37,175): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(37,150): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(65,147): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(65,120): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(65,212): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(65,186): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(68,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\CommentScene.cpp(68,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  ShareScene.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(9,121): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(9,94): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(9,174): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(9,149): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(10,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(10,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(10,167): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(10,142): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(33,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(33,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(39,140): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(39,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(39,204): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\ShareScene.cpp(39,179): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  TextBox.cpp
+  User.cpp
+  Generating Code...
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(76): warning C4172: returning address of local variable or temporary
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\Twitter10lf203\Post.cpp(86): warning C4172: returning address of local variable or temporary
+  Twitter10lf203.vcxproj -> C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\x64\Debug\Twitter10lf203.exe
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\openal32.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-audio-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-audio-d-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-graphics-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-graphics-d-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-network-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-network-d-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-system-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-system-d-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-window-2.dll
+  C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\Sem1\twitter123\Twitter\ThirdParty\bin\x64\sfml-window-d-2.dll
+  11 File(s) copied
