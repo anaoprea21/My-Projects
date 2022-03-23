@@ -1,0 +1,83 @@
+﻿  Database.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(27,16): warning C4251: 'Logger::m_logFile': class 'std::basic_ofstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd(233): message : see declaration of 'std::basic_ofstream<char,std::char_traits<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(28,20): warning C4251: 'Logger::m_logFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Posts.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(27,16): warning C4251: 'Logger::m_logFile': class 'std::basic_ofstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd(233): message : see declaration of 'std::basic_ofstream<char,std::char_traits<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(28,20): warning C4251: 'Logger::m_logFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\Posts.cpp(206,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\Posts.cpp(293,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\Posts.cpp(339,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\Posts.cpp(382,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\Posts.cpp(493,123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\Posts.cpp(495,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ServerTwitter.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(27,16): warning C4251: 'Logger::m_logFile': class 'std::basic_ofstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd(233): message : see declaration of 'std::basic_ofstream<char,std::char_traits<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(28,20): warning C4251: 'Logger::m_logFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  ServiceSrv.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(27,16): warning C4251: 'Logger::m_logFile': class 'std::basic_ofstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd(233): message : see declaration of 'std::basic_ofstream<char,std::char_traits<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(28,20): warning C4251: 'Logger::m_logFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(21,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(45,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(56,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(67,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(78,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(89,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(100,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(111,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(122,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(133,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(144,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(155,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(166,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(177,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(188,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(199,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(210,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(221,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(232,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(243,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(260,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(271,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(282,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(293,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(304,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(321,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(332,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(343,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(354,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(365,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(376,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(387,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(398,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(409,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(420,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(437,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(448,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(459,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\ServiceSrv.cpp(469,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SocialGraph.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(27,16): warning C4251: 'Logger::m_logFile': class 'std::basic_ofstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd(233): message : see declaration of 'std::basic_ofstream<char,std::char_traits<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(28,20): warning C4251: 'Logger::m_logFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  User.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(27,16): warning C4251: 'Logger::m_logFile': class 'std::basic_ofstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd(233): message : see declaration of 'std::basic_ofstream<char,std::char_traits<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(28,20): warning C4251: 'Logger::m_logFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\ServerTwitter\User.cpp(226,97): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  UtilityFunctions.cpp
+  Generating Code...
+  ServerTwitter.vcxproj -> C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\x64\Debug\ServerTwitter.exe

@@ -1,0 +1,7 @@
+﻿  Logger.cpp
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(27,16): warning C4251: 'Logger::m_logFile': class 'std::basic_ofstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\iosfwd(233): message : see declaration of 'std::basic_ofstream<char,std::char_traits<char>>'
+C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\Logger\Logger.h(28,20): warning C4251: 'Logger::m_logFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Logger'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(4905): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+     Creating library C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\x64\Debug\Logger.lib and object C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\x64\Debug\Logger.exp
+  Logger.vcxproj -> C:\Users\anaop\OneDrive\Desktop\UNITBV\Anul2\twitter123\Twitter\x64\Debug\Logger.dll
