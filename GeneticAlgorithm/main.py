@@ -2,32 +2,46 @@ import random as rand
 
 maxim = 0
 popNumber = 0
-nextGen = []
 selected = []
 population = []
 fitness = []
+firstAvr = 0
+secondAvr = 1
 
 def firstGen():
+    global population
     global popNumber
     for i in range(int(popNumber)):
-        x = rand.randint(-20,20)
-        y = rand.randint(-5,5)
-        population.append((x,y))
+        x = rand.uniform(1, 3)
+        y = rand.uniform(1, 3)
+        population.append((x, y))
     print("Initial population: ", population)
 
 def calclFitness():
     global maxim
     global popNumber
     global population
+    global firstAvr
+    global secondAvr
+    genMaxim = 0
     fitnessSum = 0
     for person in population:
         x = person[0]
         y = person[1]
-        calcl = abs(10*x*x*y - 5*x*x - 4*y*y - x*x*x*x - 2*y*y*y*y)/2+1
-        if(calcl > maxim):
-            maxim = calcl
+        calcl = ((1 / 2) * (x + y) - 1) / ((x * x) + (y * y))
+        if(calcl > genMaxim):
+            genMaxim = float(calcl)
         fitness.append(calcl)
-        fitnessSum = fitnessSum + int(calcl)
+        fitnessSum = fitnessSum + float(calcl)
+
+    if(firstAvr == 0):
+        firstAvr = genMaxim
+    else:
+        secondAvr = firstAvr
+        firstAvr = genMaxim
+
+    if(genMaxim > maxim):
+        maxim = genMaxim
 
     return fitnessSum
 
@@ -36,7 +50,7 @@ def selection(fitnessSum):
     global popNumber
     global selected
     global population
-    # probability
+    # probability per individual
     individualProbab = []
     for i in fitness:
         individualProbab.append(i / fitnessSum)
@@ -54,16 +68,16 @@ def selection(fitnessSum):
     while counter < int(popNumber) // 2:
         randNumber = rand.uniform(0, 1)
         for i in range(k, len(cumulativeProbab) - 1):
-            if cumulativeProbab[i] <= randNumber and randNumber >= cumulativeProbab[i + 1]:
+            if cumulativeProbab[i] <= randNumber and randNumber <= cumulativeProbab[i + 1]:
                 selected.append(population[i + 1])
+                k = k + 1
                 break
-        k = k + 1
         counter += 1
     fitness.clear()
 
 def crossOver():
     global selected
-    global nextGen
+    nextGen = []
     global population
 
     crossover = 1
@@ -72,6 +86,7 @@ def crossOver():
     for i in range(len(selected)):
         randNum = rand.uniform(0, 1)
         randNumbers.append(randNum)
+
     #crossover
     for i in range(len(selected)-1):
         if randNumbers[i] < crossover:
@@ -80,45 +95,58 @@ def crossOver():
         else:
             nextGen.append(selected[i])
     population = nextGen.copy()
+    print("Next generation: ", nextGen)
     nextGen.clear()
+    selected.clear()
 
-def mutate(i):
-    mutX = rand.uniform(1, 5)
-    mutY = rand.uniform(1, 3)
-    auxI = i[0]
-    auxJ = i[1]
-    if i[0] > 15:
-        auxI -= mutX
+def mutate(pos):
+    mutX = rand.uniform(0, 1)
+    mutY = rand.uniform(0, 1)
+    auxX = pos[0]
+    auxY = pos[1]
+    if pos[0] > 2:
+        auxX -= mutX
     else:
-        auxI += mutX
-    if i[1] > 2.5:
-        auxJ -= mutY
+        auxX += mutX
+    if pos[1] > 2:
+        auxY -= mutY
     else:
-        auxJ += mutY
-    return (auxI, auxJ)
+        auxY += mutY
+    return (auxX, auxY)
 
 def mutations():
     global population
-    prob = 0.05
+    prob = 0.07
     auxPop = []
     for i in population:
-        num = rand.uniform(0,1)
+        num = rand.uniform(0, 1)
         if num < prob:
             auxPop.append(mutate(i))
+        else:
+            auxPop.append(i)
+    print("Population number: ", len(population))
+    population = auxPop.copy()
 
 def main():
     global maxim
+    global population
+    global selected
     global popNumber
-    popNumber = input()
+    global firstAvr
+    global secondAvr
+    popNumber = 1000
     firstGen()
-    for i in range(300):
-        fitnessSum = calclFitness()
+    generation = 0
+    while abs(float(firstAvr) - float(secondAvr)) > 0.0000001:
+    #for i in range(300):
+        fitnessSum = float(calclFitness())
         selection(fitnessSum)
-        print("Selected: ",selected)
+        print("Selected: ", selected)
         crossOver()
-        print("Next generation: ", population)
         mutations()
+        generation += 1
     print(maxim)
+    print (generation)
 
 if __name__ == main():
     main()
