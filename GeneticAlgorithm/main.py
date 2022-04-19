@@ -7,6 +7,8 @@ population = []
 fitness = []
 firstAvr = 0
 secondAvr = 1
+xmax = 0
+ymax = 0
 
 def firstGen():
     global population
@@ -23,6 +25,8 @@ def calclFitness():
     global population
     global firstAvr
     global secondAvr
+    global xmax
+    global ymax
     genMaxim = 0
     fitnessSum = 0
     for person in population:
@@ -31,6 +35,8 @@ def calclFitness():
         calcl = ((1 / 2) * (x + y) - 1) / ((x * x) + (y * y))
         if(calcl > genMaxim):
             genMaxim = float(calcl)
+            xmax = float(x)
+            ymax = float(y)
         fitness.append(calcl)
         fitnessSum = fitnessSum + float(calcl)
 
@@ -40,7 +46,7 @@ def calclFitness():
         secondAvr = firstAvr
         firstAvr = genMaxim
 
-    if(genMaxim > maxim):
+    if (genMaxim > maxim):
         maxim = genMaxim
 
     return fitnessSum
@@ -134,19 +140,22 @@ def main():
     global popNumber
     global firstAvr
     global secondAvr
+    global xmax
+    global ymax
     popNumber = 1000
     firstGen()
     generation = 0
     while abs(float(firstAvr) - float(secondAvr)) > 0.0000001:
-    #for i in range(300):
         fitnessSum = float(calclFitness())
         selection(fitnessSum)
         print("Selected: ", selected)
         crossOver()
         mutations()
         generation += 1
-    print(maxim)
-    print (generation)
+    print("Maxim: ", maxim)
+    print("X maxim: ", xmax)
+    print("Y maxim: ", ymax)
+    print ("Number of generations: ", generation)
 
 if __name__ == main():
     main()
