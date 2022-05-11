@@ -1,0 +1,85 @@
+﻿<Window x:Class="HangMan.View.NewGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HangMan.View"
+        xmlns:local1="clr-namespace:HangMan.Services"
+        mc:Ignorable="d"
+        Title="NewGame" Height="450" Width="800">
+    <Window.DataContext>
+        <local1:UserHandeler/>
+    </Window.DataContext>
+    <Grid Background="BlanchedAlmond" Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Margin="0,0,0.333,390.667">
+            <Menu.Items>
+                <MenuItem Header="Game">
+                    <MenuItem Header="Reset" Command="{Binding Path=ResetGameCommand}" Click="MenuItem_Click"/>
+                    <MenuItem Header="Save" Command="{Binding Path=SaveGameCommand}"/>
+                    <MenuItem Header="Open" Command="{Binding Path=LoadGameCommand}"></MenuItem>
+                    <MenuItem Header="Statistics" Command="{Binding Path=showStatCommand}"/>
+                    <MenuItem Header="Exit" Click="MenuItem_Exit"/>
+                </MenuItem>
+                <MenuItem Header="Categories">
+                    <MenuItem Header="All categories" Command="{Binding Path=LoadAllCommand}"></MenuItem>
+                    <MenuItem Header="Flowers" Command="{Binding Path=LoadFlowersCommand}"></MenuItem>
+                    <MenuItem Header="Rivers" Command="{Binding Path=LoadRiversCommand}"></MenuItem>
+                    <MenuItem Header="Food" Command="{Binding Path=LoadFoodCommand}"></MenuItem>
+                    <MenuItem Header="Holiday" Command="{Binding Path=LoadHolidayCommand}"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Help">
+                    <MenuItem Header="About" Click="MenuItem_About"></MenuItem>
+                </MenuItem>
+            </Menu.Items>
+        </Menu>
+
+        <TextBlock x:Name="player" FontSize="20" Margin="314,35,151.333,343.667"></TextBlock>
+
+        <Button Background="Pink" FontSize="18" Command="{Binding Path=StartCommand}" Margin="684,35,43.333,343.667" Click="Button_Start">Start</Button>
+        <TextBlock FontSize="20" Margin="10,30,670.333,338.667" Height="52">Time left:</TextBlock>
+        <Label x:Name="timerLabel" Content="02:00" FontFamily="Segoe UI" FontSize="20" VerticalContentAlignment="Top"
+               HorizontalContentAlignment="Left" Margin="109,25,524.333,343.667"></Label>
+
+        <TextBlock FontSize="50" Margin="388,91,233.333,245.667">Lives:</TextBlock>
+        <TextBlock x:Name="dead" FontSize="50" Text="{Binding Path=lives, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="597,91,78.333,260.667"></TextBlock>
+        <Image Source="{Binding Path = currentHangman, Mode = TwoWay, UpdateSourceTrigger = PropertyChanged}" Margin="27,82,547.333,89.667"></Image>
+        <Button Margin="351,221,410.333,167.667" Content="A" Command="{Binding Acommand}"/>
+        <Button Margin="388,221,373.333,167.667" Command="{Binding Bcommand}">B</Button>
+        <Button Margin="425,221,336.333,167.667" Command="{Binding Ccommand}">C</Button>
+        <Button Margin="462,221,299.333,167.667" Command="{Binding Dcommand}">D</Button>
+        <Button Margin="499,221,262.333,167.667" Command="{Binding Ecommand}">E</Button>
+        <Button Margin="536,221,225.333,167.667" Command="{Binding Fcommand}">F</Button>
+        <Button Margin="573,221,188.333,167.667" Command="{Binding Gcommand}">G</Button>
+        <Button Margin="610,221,151.333,167.667" Command="{Binding Hcommand}">H</Button>
+        <Button Margin="647,221,114.333,167.667" Command="{Binding Icommand}">I</Button>
+        <Button Margin="331,258,430.333,130.667" Command="{Binding Jcommand}">J</Button>
+        <Button Margin="368,258,393.333,130.667" Command="{Binding Kcommand}">K</Button>
+        <Button Margin="405,258,356.333,130.667" Command="{Binding Lcommand}">L</Button>
+        <Button Margin="442,259,319.333,130.667" Command="{Binding Mcommand}">M</Button>
+        <Button Margin="479,259,282.333,130.667" Command="{Binding Ncommand}">N</Button>
+        <Button Margin="516,259,245.333,130.667" Command="{Binding Ocommand}">O</Button>
+        <Button Margin="553,258,208.333,130.667" Command="{Binding Pcommand}">P</Button>
+        <Button Margin="590,259,171.333,130.667" Command="{Binding Qcommand}">Q</Button>
+        <Button Margin="627,259,134.333,130.667" Command="{Binding Rcommand}">R</Button>
+        <Button Margin="664,259,97.333,130.667" Command="{Binding Scommand}">S</Button>
+        <Button Margin="388,295,373.333,94.667" Command="{Binding Tcommand}">T</Button>
+        <Button Margin="425,295,336.333,94.667" Command="{Binding Ucommand}">U</Button>
+        <Button Margin="462,295,299.333,94.667" Command="{Binding Vcommand}">V</Button>
+        <Button Margin="499,295,262.333,94.667" Command="{Binding Wcommand}" >W</Button>
+        <Button Margin="536,295,225.333,94.667" Command="{Binding Xcommand}">X</Button>
+        <Button Margin="573,295,188.333,94.667" Command="{Binding Ycommand}">Y</Button>
+        <Button Margin="610,295,151.333,94.667" Command="{Binding Zcommand}">Z</Button>
+
+        <TextBlock VerticalAlignment="Center" FontSize="20" Margin="10,374,684.333,9.667" Height="37">Category:</TextBlock>
+        <TextBlock VerticalAlignment="Center" FontSize="20" Height="37" Margin="114,374,484.333,9.667" Text="{Binding category}"></TextBlock>
+        
+        <TextBlock HorizontalAlignment="Center" TextAlignment="Center"
+               VerticalAlignment="Center" FontSize="20" Margin="314,374,414.333,19.667" Width="65" Height="27" RenderTransformOrigin="0.772,0.389">Word:</TextBlock>
+        <TextBlock FontSize="30" x:Name="word" Text="{Binding blankWord}" Margin="405,354,43.333,19.667" TextAlignment="Center"/>
+
+    </Grid>
+</Window>

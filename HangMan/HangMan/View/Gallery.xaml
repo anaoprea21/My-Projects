@@ -1,0 +1,24 @@
+﻿<Window x:Class="HangMan.View.Gallery"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HangMan.View"
+        mc:Ignorable="d"
+        Title="Gallery" Height="450" Width="800">
+    <Grid>
+        <Button FontSize="16" Margin="730,10,10.333,373.667" Click="Ok">Ok</Button>
+        <TextBlock FontSize="20" Margin="288,29,306.333,354.667">Please select a photo</TextBlock>
+        <Image Source="C:\Users\anaop\source\repos\HangMan\HangMan\Images\art.jpg" Margin="36,71,559.333,193.667"/>
+        <Image Source="C:\Users\anaop\source\repos\HangMan\HangMan\Images\flower.jpg" Margin="277,71,298.333,193.667"/>
+        <Image Source="C:\Users\anaop\source\repos\HangMan\HangMan\Images\statue.jpg" Margin="545,71,54.333,193.667"/>
+        <Image Source="C:\Users\anaop\source\repos\HangMan\HangMan\Images\giphy.gif" Margin="438,248,105.333,31.667"/>
+        <Image Source="C:\Users\anaop\source\repos\HangMan\HangMan\Images\giphy_lazyGuy.gif" Margin="142,248,453.333,25.667"/>
+        <CheckBox x:Name="art" Margin="5,80,757.333,308.667"></CheckBox>
+        <CheckBox Name="flower" Margin="244,80,516.333,308.667"></CheckBox>
+        <CheckBox Name="statue" Margin="522,80,236.333,308.667"></CheckBox>
+        <CheckBox Name="giphy2" Margin="97,259,656.333,134.667" RenderTransformOrigin="-1,0.521"></CheckBox>
+        <CheckBox Name="giphy" Margin="395,259,360.333,134.667"></CheckBox>
+        
+    </Grid>
+</Window>

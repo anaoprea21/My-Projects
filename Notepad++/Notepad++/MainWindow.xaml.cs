@@ -7,9 +7,6 @@ using System.Windows.Forms;
 
 namespace Notepad__
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         private void MenuItem_Help(object sender, RoutedEventArgs e)
@@ -36,7 +33,7 @@ namespace Notepad__
         }
         private void Folder_Expanded(object sender, RoutedEventArgs e)
         {
-            var item = (TreeViewItem)sender;
+            TreeViewItem item = (TreeViewItem)sender;
 
             //detecting the null element added 
             if (item.Items.Count != 1)

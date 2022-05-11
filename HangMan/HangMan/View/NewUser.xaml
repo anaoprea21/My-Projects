@@ -1,0 +1,21 @@
+﻿<Window x:Class="HangMan.View.NewUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HangMan.View"
+        xmlns:local1="clr-namespace:HangMan.Services"
+        mc:Ignorable="d"
+        Title="NewUser" Height="300" Width="500">
+    <Window.DataContext>
+        <local:MainWindow></local:MainWindow>
+    </Window.DataContext>
+    <Grid Margin="0,0,3.333,-0.333">
+        <TextBlock Margin="29,10,0,229" HorizontalAlignment="Left" Width="55">Username:</TextBlock>
+        <TextBox AcceptsReturn="false" Name="username" Margin="98,10,0,229"></TextBox>
+        <TextBlock Margin="10,71,389,175" >Upload image:</TextBlock>
+        <TextBlock Margin="98,71,0,175" Name="path"></TextBlock>
+        <Button Margin="118,111,143,131" Click="SearchImage">Search in gallery</Button>
+        <Button Margin="86,225,98,10" RenderTransformOrigin="0.5,0.5" Click="Submit">Submit</Button>
+    </Grid>
+</Window>
